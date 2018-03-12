@@ -29,3 +29,14 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 test/
+
+# IntelliJ project files 
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# eclipse project file
+.settings/
+.classpath
+.project
