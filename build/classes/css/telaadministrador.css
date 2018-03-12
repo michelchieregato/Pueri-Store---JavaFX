@@ -1,0 +1,28 @@
+#pane1 {
+    -fx-background-image: url("/imagens/1.jpg");
+}
+#pane2 {
+    -fx-background-image: url("/imagens/2.jpg");
+}
+#pane3 {
+    -fx-background-image: url("/imagens/3.jpg");
+}
+#pane4 {
+    -fx-background-image: url("/imagens/4.jpg");
+}
+
+.botao{
+    -fx-background-color: #ff9900;
+}
+
+#btnCentro {
+    -fx-background-color: #0099ff;
+}
+
+#btnCentro:hover {
+    -fx-background-color: #0099ff;
+    -fx-background-color: #afffbd;
+}
+.botao:hover {
+    -fx-background-color: #afffbd;
+}
